@@ -34,5 +34,4 @@ The system will include the following features:
 ● Database hosted on Oracle server (CEC server)
 
 VIDEO PRESENTATION LINK:
-Full project: https://www.youtube.com/watch?v=ywGAV
-31pETQ
+Full project: https://www.youtube.com/watch?v=ywGAV31pETQ
